@@ -45,7 +45,3 @@ module.exports = {
         return res.json(dev)
     }
 };
-
-
-
-// class stoped at 48:32
